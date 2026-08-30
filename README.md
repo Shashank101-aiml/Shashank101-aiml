@@ -1,22 +1,3 @@
-<h1>Hi there 👋</h1>
-
-<!-- Your actual profile content -->
-
-## About Me
-
-...
-
-## Tech Stack
-
-...
-
-## Featured Projects
-
-...
-
-## GitHub Stats
-
-...
 
 <!-- SNAKE GOES HERE -->
 
